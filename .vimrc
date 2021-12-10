@@ -1,4 +1,4 @@
-inoremap jk <ESC>
+inoremap df <ESC>
 let mapleader = "'"
 syntax on
 set number
